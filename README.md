@@ -1,7 +1,7 @@
 ### Hi there, this is Yen.  👋
 
 
-- 🔭 I’m currently working on web, software, and data pipeline development, and biological data analysis.
+- 🔭 I’m currently working on web, software, data pipeline development, and biological data analytics.
 - 🌱 I’m currently learning to use React and Express JavaScript libraries for web development, Snakemake workflow management system for data pipeline development, and Tensorflow for deep learning applications.   
 
 <!---
